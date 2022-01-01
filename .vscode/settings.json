@@ -1,0 +1,11 @@
+{
+    "git.enabled": false,
+    "files.exclude": {
+        "node-modules": true,
+        ".vscode": true,
+        "gitgnore": true,
+        "package.json": true,
+        "package-lock.json": true,
+        "public":true
+    }
+}
